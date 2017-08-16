@@ -1,4 +1,3 @@
-# vendorApp
+# VendorApp
 
-
-A Simple Vendor Management Application using Spring Boot and Angular JS.
+REST APIs for CRUD operations.
